@@ -22,3 +22,11 @@ Početni podaci su izmišljeni (demo). Podaci se spremaju u `localStorage` pregl
 
 ## Tehnologije
 React 19, Vite
+Planiram dodati sljedeće funkcije:
+
+prijavu korisnika i spremanje podataka na poslužitelju (baza podataka) umjesto u localStorage, kako bi podaci bili dostupni s više uređaja;
+automatsko slanje potvrde rezervacije i podsjetnika gostu e-poštom;
+sezonske cijene noćenja i izračun turističke pristojbe na računu;
+sinkronizaciju kalendara s drugim servisima za iznajmljivanje (uvoz i izvoz u iCal formatu) radi sprječavanja dvostrukih rezervacija;
+izvoz izvještaja o prihodima u Excel i grafički prikaz prihoda po mjesecima;
+prilagodbu sučelja mobilnim uređajima, kako bi se rezervacije mogle voditi i s telefona.
