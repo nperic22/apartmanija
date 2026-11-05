@@ -22,6 +22,9 @@ Početni podaci su izmišljeni (demo). Podaci se spremaju u `localStorage` pregl
 
 ## Tehnologije
 React 19, Vite
+
+
+
 **
 Planiram dodati sljedeće funkcije:**
 
