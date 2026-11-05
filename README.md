@@ -2,7 +2,7 @@
 
 Aplikacija za iznajmljivače apartmana: kalendar rezervacija, baza gostiju, prihodi i ciljevi, PDF izvještaji i podsjetnici.
 
-Autor: Nikola Perić
+Autor: Nikola P.
 
 ## Entiteti (CRUD nad svima)
 
