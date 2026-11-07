@@ -23,8 +23,7 @@ React 19, Vite
 
 
 
-**
-Planiram dodati sljedeće funkcije:**
+Planiram dodati sljedeće funkcije:
 
 prijavu korisnika i spremanje podataka na poslužitelju (baza podataka) umjesto u localStorage, kako bi podaci bili dostupni s više uređaja;
 automatsko slanje potvrde rezervacije i podsjetnika gostu e-poštom;
